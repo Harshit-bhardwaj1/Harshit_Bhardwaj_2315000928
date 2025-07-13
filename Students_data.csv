@@ -1,0 +1,5 @@
+,Unnamed: 0.1,Unnamed: 0,Name,Age,Gender,Marks,Passed
+0,0,0,Alice,20.0,Female,85.0,True
+1,1,1,Bob,22.0,Male,84.75,False
+2,2,2,Carol,19.0,Female,92.0,True
+3,3,3,David,21.0,Male,74.0,False
